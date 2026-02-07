@@ -63,5 +63,10 @@ The URL is marked **Suspicious** if the total risk score is **40 or more**.
 ---
 
 ## 🧪 Example Test URLs
+## Live Demo
+
+[Click here to try the Suspicious Link Detector](https://frontend-taupe-alpha-68.vercel.app)
+
 
 ### ❌ Suspicious URLs
+
